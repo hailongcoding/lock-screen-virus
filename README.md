@@ -1,0 +1,2 @@
+# lock-screen-virus
+friendly
